@@ -1,0 +1,25 @@
+# Virtual Environment
+env/
+env1/
+venv/
+venv1/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# ChromaDB
+chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
